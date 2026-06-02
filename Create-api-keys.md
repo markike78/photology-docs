@@ -8,11 +8,11 @@ There are 2 types of API keys in fal.ai
 
 ## Creating Keys
 1. From the top menu in fal.ai, click **Settings** and then **API Keys**
-![alt text](image.png)
+<img width="670" height="245" alt="image" src="https://github.com/user-attachments/assets/b5a25b39-4534-4b81-a811-444963f7020c" />
 <br><br>
 
 2. Click **+ Add key**
-![alt text](image-1.png)
+<img width="670" height="245" alt="image" src="https://github.com/user-attachments/assets/b5a25b39-4534-4b81-a811-444963f7020c" />
 <br><br>
 
 3. Make sure the **Scope** is set to **"API"**
